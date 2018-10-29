@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e4503ff08292cb4c90d7fb65583d879
+timeCreated: 1522449867
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {fileID: 8300000, guid: 296b97a189918ad4aa4502556c40edd0, type: 3}
+  - startPage: {instanceID: 0}
+  - gameOverPage: {instanceID: 0}
+  - countdownPage: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
